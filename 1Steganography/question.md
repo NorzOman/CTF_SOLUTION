@@ -1,7 +1,7 @@
 
 This is our image:
 
-![Image of House](Images/Untitled.jpeg)
+![Image of House](../Images/Untitled.jpeg)
 
 
 We install exiftool:
