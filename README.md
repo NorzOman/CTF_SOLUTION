@@ -1,9 +1,10 @@
 
 ## Cryptography:
 
-- Decrypt This !! :: [[Decrypt This !!]]
-- Morse in audio :: [[Morse in audio]]
-- Rune Cipher :: [[Rune Cipher]]
+- Decrypt This !! :: [Decrypt This !!](0Cryptography/Decrypt%20This!!!.md)
+- Morse in audio :: [Morse in audio](0Cryptography/Morse%20in%20audio.md)
+- Rune Cipher :: [Rune Cipher](0Cryptography/Rune%20Cipher.md)
+
 ## Steganography:
 
 - MP3 - Waveform :: [[MP3 - Waveform]]
