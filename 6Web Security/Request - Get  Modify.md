@@ -1,7 +1,8 @@
 
 When we click on the link we are greeted with this webpage:
 
-![[Pasted image 20240814180430.png]]
+![Pasted image 20240814180430](../Images/Pasted%20image%2020240814180430.png)
+
 
 
 Then we click on the 'Choose Blue' button on intercept the request  on burpsuite
@@ -9,12 +10,14 @@ Then we click on the 'Choose Blue' button on intercept the request  on burpsuite
 
 We intercept the request:
 
-![[Pasted image 20240814180823.png]]
+![Pasted image 20240814180823](../Images/Pasted%20image%2020240814180823.png)
+
 
 
 We send this to the repeater AND modify the request type from POST to HEAD
 
-![[Pasted image 20240814180900.png]]
+![Pasted image 20240814180900](../Images/Pasted%20image%2020240814180900.png)
+
 
 We get our flag:
 ```
