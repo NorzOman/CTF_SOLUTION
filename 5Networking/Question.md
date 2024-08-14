@@ -11,6 +11,6 @@ Then we go through the contents and find the secret.png
 
 There we find our flag
 
-![[secret.png]]
+![Image of Flag](../Images/secret.png)
 
 
