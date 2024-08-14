@@ -1,2 +1,1 @@
-![[Untitled(1).png]]
-
+![Picture of Challenge](../Images/Untitled(1).png)
