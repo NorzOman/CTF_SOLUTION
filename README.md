@@ -1,7 +1,7 @@
 
 ## Cryptography:
 
-- Decrypt This !! :: [Decrypt This !!](0Cryptography/Decrypt%20This!!!.md)
+- Decrypt This !! :: [Decrypt This !!](0Cryptography/Decrypt%20This%20!!.md)
 - Morse in audio :: [Morse in audio](0Cryptography/Morse%20in%20audio.md)
 - Rune Cipher :: [Rune Cipher](0Cryptography/Rune%20Cipher.md)
 
