@@ -29,7 +29,7 @@
 
  - Request - Get Modify :: [Request - Get Modify](6Web%20Security/Request%20Get%20Modify.md)
  - robots.txt :: [robots.txt](6Web%20Security/robots.txt.md)
- - jwt :: [jwt](6Web%20Security/jwt.md)
+ - jwt :: [jwt](6Web%20Security/JWT.md)
 
 
 
