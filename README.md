@@ -35,5 +35,5 @@
 
 ## Contribution 
 
-- Tushar Naik
-- Om Viroje
+- Tushar Naik.
+- Om Viroje.
